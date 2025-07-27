@@ -1,0 +1,2 @@
+- Android Nativo + kotlin.
+- Base de Datos offline + online => ROOM
