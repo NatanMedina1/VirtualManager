@@ -1,0 +1,1 @@
+Aqui iran las cosas como las definiciones de las clases, repositorios, casos de uso, etc.
